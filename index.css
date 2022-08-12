@@ -1,0 +1,11 @@
+body{
+   background-color:mintcream; 
+}
+
+hr{
+    border-style: dotted none none none;
+    border-color: rgb(83, 83, 83);
+    width:auto;
+    border-width: 5px;
+}
+
