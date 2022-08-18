@@ -17,3 +17,11 @@ h1{
 h3{
     color: rgb(0, 82, 158);
 }
+
+.change:hover{
+    background-color: beige;
+}
+
+.nithin:hover{
+    color:brown;
+}
