@@ -1,5 +1,6 @@
 body{
-   background-color:mintcream; 
+   background-color:mintcream;
+   font-family: sans-serif; 
 }
 
 hr{
@@ -9,3 +10,10 @@ hr{
     border-width: 5px;
 }
 
+h1{
+    color: rgb(0, 82, 158);
+}
+
+h3{
+    color: rgb(0, 82, 158);
+}
