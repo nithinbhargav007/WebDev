@@ -37,34 +37,34 @@ body{
       margin-right:40px;
       margin-bottom: 20px;
       color:white;
-      font-size:20px;
+      font-size:21px;
       font-weight:bolder;
-      font-family: 'Itim', cursive;
+      font-family: 'Arial';
       display:inline-block;
 }
 
 .github{
       position: relative;
-      left:650px;
+      left:600px;
       top:10px;
-      height:35px;
-      width: 35px;
+      height:45px;
+      width: 45px;
 }
 
 .linkedin{
       position: relative;
-      left:750px;
+      left:700px;
       top:30px;
-      height:80px;
-      width: 80px;
+      height:90px;
+      width: 90px;
 }
 
 .twitter{
       position: relative;
-      left:850px;
+      left:800px;
       top:10px;
-      height:30px;
-      width: 30px;
+      height:40px;
+      width: 40px;
 }
 
 .background{
