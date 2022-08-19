@@ -167,7 +167,7 @@ body{
 
 .expline{
       margin:0;
-      top: 100px;
+      top: 30px;
       left:700px;
       width:500px;
       position:relative;
@@ -183,7 +183,7 @@ body{
       margin:0;
       position:relative;
       font-size:28px;
-      top: 150px;
+      top: 80px;
       left:120px;
       height:1200px;
       width:1700px;
@@ -192,7 +192,7 @@ body{
       text-align: left;
       word-spacing: 5px;
       line-height: 50px;
-      background:linear-gradient( to right, rgb(44, 248, 255), #60ff4b,#b7ff59,#fdff89);
+      background:linear-gradient( to right, rgb(128, 194, 255), #ffa4eb,#ffdae5,#f8ff99);
       -webkit-text-fill-color:transparent;
       -webkit-background-clip:text;
 }
@@ -205,7 +205,7 @@ body{
 
 .heading_intel{
       text-align: left;
-      background:linear-gradient( to right, rgb(255, 235, 50), #fffc36,#fffb24,#f2ff79);
+      background:linear-gradient( to right, rgb(171, 200, 255), #b0faff,#86ffef,#afffd7);
       -webkit-text-fill-color:transparent;
       -webkit-background-clip:text;
       margin:0;
@@ -213,7 +213,7 @@ body{
 }
 .heading_arm{
       text-align: left;
-      background:linear-gradient( to right, rgb(255, 235, 50), #fffc36,#fffb24,#f2ff79);
+      background:linear-gradient( to right, rgb(171, 200, 255), #b0faff,#86ffef,#afffd7);
       -webkit-text-fill-color:transparent;
       -webkit-background-clip:text;
       text-align: right;
@@ -223,7 +223,7 @@ body{
 
 .heading_elxsi{
       text-align: left;
-      background:linear-gradient( to right, rgb(255, 235, 50), #fffc36,#fffb24,#f2ff79);
+      background:linear-gradient( to right, rgb(171, 200, 255), #b0faff,#86ffef,#afffd7);
       -webkit-text-fill-color:transparent;
       -webkit-background-clip:text;
       text-align: left;
@@ -265,7 +265,7 @@ ul{
 
 .skillline{
       margin:0;
-      top: 100px;
+      top: 50px;
       left:710px;
       width:1000pxpx;
       position:relative;
@@ -281,7 +281,7 @@ ul{
       margin:0;
       position:relative;
       font-size:28px;
-      top: 150px;
+      top: 60px;
       left:120px;
       height:1200px;
       width:1700px;
@@ -469,4 +469,14 @@ table {
       
 td {
       border: none;
+      }
+
+.scroll{
+            height:30px;
+            width: 30px;
+            position:fixed;
+            left:1960px;
+            top:1300px;
+            z-index:100;
+            
       }
