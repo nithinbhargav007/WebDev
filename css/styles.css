@@ -258,8 +258,8 @@ ul{
 .skillline{
       margin:0;
       top: 100px;
-      left:880px;
-      width:500px;
+      left:710px;
+      width:1000pxpx;
       position:relative;
       font-size:65px;
       font-weight:bolder;
@@ -289,10 +289,10 @@ ul{
 
 .verilog{
       position: absolute;
-      left:100px;
+      left:70px;
       top:100px;
       height:150px;
-      width: 220px;
+      width: 300px;
 }
 
 .sv{
@@ -329,7 +329,7 @@ ul{
 
 .cpp{
       position: absolute;
-      left:550px;
+      left:560px;
       top:360px;
       height:200px;
       width: 200px;
