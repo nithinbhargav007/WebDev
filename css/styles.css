@@ -264,7 +264,7 @@ ul{
       font-size:65px;
       font-weight:bolder;
       font-family: 'Itim', cursive;
-      background:linear-gradient( to right, rgb(255, 46, 133), #ff3e3e,#86ffef,#afffd7);
+      background:linear-gradient( to right, rgb(81, 243, 255), #32fff5,#86ffef,#afffd7);
       -webkit-text-fill-color:transparent;
       -webkit-background-clip:text;
 }
