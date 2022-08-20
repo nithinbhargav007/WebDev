@@ -553,11 +553,11 @@ td {
             position:fixed;
             left:95%;
             top:95%;
-            opacity: 70%;   
+            opacity: 100%; 
+            border-radius: 10px;  
       }
 .scroll:hover{
-      height:35px;
-      width: 35px;
+      border:solid #6bd5ff;
 }
 
 td:hover{
