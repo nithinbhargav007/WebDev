@@ -561,7 +561,6 @@ td {
 }
 
 td:hover{
-      font-size: 50px;
       background:linear-gradient( to right, rgb(255, 252, 97), #b9ff69,#54ff87,#1cff28);
       -webkit-text-fill-color:transparent;
       -webkit-background-clip:text;
